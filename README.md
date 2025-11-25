@@ -1,4 +1,4 @@
-# Habit Tracker (IPSP – Introduction to Problem Solving and Programming)
+# Habit Tracker (IPP – Introduction to Problem Solving and Programming)
 
 ## 1. Introduction
 This project is a simple **command-line Habit Tracker** implemented in Python.  
